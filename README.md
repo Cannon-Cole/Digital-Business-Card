@@ -1,3 +1,7 @@
+# Basic react app to demonstrate compentency
+
+Check for more advanced projects in other repos
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
