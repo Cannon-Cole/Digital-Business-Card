@@ -1,13 +1,132 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  background-color: #23252c;
+
+  font-family: "Inter", sans-serif, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.white-text {
+  color: white;
+}
+
+.peach-text {
+  color: #f3bf99;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.icon-size {
+  height: 1.5rem;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.linkedin-blue-background {
+  background-color: #5093e2;
+}
+
+.align-items {
+  text-align: center;
+}
+
+.personal-button {
+  justify-content: space-around;
+  border-radius: 0.5em;
+  height: 2.5em;
+  padding: 0.3em;
+  min-width: 8em;
+  margin: 0.7em;
+  margin-top: 1.5em;
+}
+
+.thin-text {
+  font-weight: 100;
+}
+
+.icon {
+  filter: contrast(0);
+}
+
+.float-in-the-middle {
+  text-align: center;
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+.center {
+  justify-content: space-around;
+}
+
+.rounded-corner {
+  border-radius: 0.5em;
+}
+
+.rounded-corner-large {
+  border-radius: 2em;
+}
+.rounded-bottom-corner-large {
+  border-bottom-left-radius: 3em;
+  border-bottom-right-radius: 3em;
+}
+
+.container-background-color {
+  background-color: #1a1b21;
+}
+
+.social-media-icon-bar-background-color {
+  background-color: #161619;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.pad {
+  padding: 2em;
+}
+
+.pad p {
+  margin: 0px;
+  padding-top: 0px;
+}
+
+.pad h3 {
+  margin-bottom: 0px;
+  padding-top: 0px;
+}
+
+.center-together {
+  justify-content: center;
 }
