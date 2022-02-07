@@ -2,7 +2,7 @@
 
 Check for more advanced projects in other repos
 
-![alt text](https://github.com/[Cannon-Cole]/[Digital-Business-Card]/blob/[main]/preview-digital-business-card.png?raw=true)
+![Screenshot](preview-digital-business-card.png)
 
 # Getting Started with Create React App
 
