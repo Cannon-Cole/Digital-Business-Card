@@ -2,6 +2,8 @@
 
 Check for more advanced projects in other repos
 
+![alt text](https://github.com/[Cannon-Cole]/[Digital-Business-Card]/blob/[main]/preview-digital-business-card.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
