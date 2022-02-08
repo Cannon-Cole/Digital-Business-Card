@@ -1,6 +1,4 @@
-# Basic react app to demonstrate compentency
-
-Check for more advanced projects in other repos
+# Small React project to demonstrate the most basic React concepts
 
 ![Screenshot](preview-digital-business-card.png)
 
