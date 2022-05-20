@@ -34,6 +34,7 @@ a {
 .flex-col {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 h2 {
@@ -73,11 +74,12 @@ h2 {
 
 .icon {
   filter: contrast(0);
+  max-width: 5em;
 }
 
 .float-in-the-middle {
   text-align: center;
-  max-width: 50%;
+  max-width: 30rem;
   margin-left: auto;
   margin-right: auto;
 
@@ -129,4 +131,8 @@ h2 {
 
 .center-together {
   justify-content: center;
+}
+
+.profile-photo {
+  max-width: 80%;
 }

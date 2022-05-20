@@ -3,7 +3,7 @@ import Buttons from "./Buttons";
 export default function PersonalInfo() {
   return (
     <div className="flex-col">
-      <img src={placeholder}></img>
+      <img className="profile-photo" src={placeholder} />
       <h2 className="white-text">FName LName</h2>
       <p className="peach-text">Position</p>
       <a href="#" className="white-text">

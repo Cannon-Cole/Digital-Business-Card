@@ -6,10 +6,10 @@ import github from "../images/social-media-icons/icons8-github-squared-96.png";
 export default function SocialMediaIconBar() {
   return (
     <div className="flex-row center rounded-bottom-corner-large social-media-icon-bar-background-color">
-      <img className="icon" src={twitter}></img>
-      <img className="icon" src={facebook}></img>
-      <img className="icon" src={insta}></img>
-      <img className="icon" src={github}></img>
+      <img className="icon" src={twitter} />
+      <img className="icon" src={facebook} />
+      <img className="icon" src={insta} />
+      <img className="icon" src={github} />
     </div>
   );
 }
